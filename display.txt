@@ -1,0 +1,89 @@
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Display</title>
+    <link rel="stylesheet" href="display.css">
+</head>
+<body>
+    <div></div>
+    <div></div>
+    <div></div>
+    <h1>I am h1</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe incidunt quibusdam voluptatibus vitae voluptatum ratione tempore fuga odit earum veritatis? Ad nulla quos aliquid asperiores, vel nisi velit iusto reiciendis!
+    Itaque quibusdam neque qui nostrum recusandae cumque perspiciatis repellat eaque deserunt dolor fuga iste maxime beatae, repudiandae molestiae magni? Quo ex tempora voluptatum eaque tempore beatae facilis ad. Placeat, fugiat!
+    Harum dolores architecto deleniti, et doloribus eaque minima quasi pariatur similique voluptatum impedit atque itaque ea accusamus modi beatae saepe dignissimos provident esse ipsa recusandae ex aspernatur! Officiis, ipsam laudantium!
+    Illo qui numquam deserunt ducimus expedita voluptate provident iure ratione at voluptatem quo quia dignissimos fugit hic sed ex, laboriosam harum nihil corporis esse. Iure suscipit laboriosam dolorum odit provident!
+    Provident, quasi. Atque perferendis maxime, consectetur ab error accusamus necessitatibus? Rem debitis temporibus, voluptatem ullam quibusdam nulla ea deleniti similique dolorem tempore velit vero quos cupiditate quasi eligendi quia nemo!
+    Eligendi a exercitationem, ducimus sapiente tempora neque iure pariatur veniam esse impedit sit! Eius impedit voluptates consectetur nostrum corporis earum molestiae praesentium, vel ad nesciunt consequatur animi, explicabo quae odio!
+    Omnis praesentium vel possimus non maxime quibusdam, asperiores rerum ut sapiente, aperiam commodi dolorum temporibus nesciunt fugit quos! Maiores totam saepe veritatis molestiae repellat porro sint nostrum quas aperiam placeat.
+    <span>I am span </span>
+    In porro qui nisi unde sapiente, quas cupiditate, consequuntur adipisci laborum velit provident ullam omnis explicabo, placeat ex. Quae optio fuga iusto fugiat exercitationem aspernatur adipisci neque animi cupiditate consequatur!
+    Dolore vitae reiciendis pariatur, explicabo earum nihil suscipit sint eos laborum aspernatur laudantium est. Consequatur vitae enim exercitationem eum, nostrum repellat consequuntur blanditiis reprehenderit delectus voluptatibus quam labore minus optio?
+    Cum autem dignissimos qui corrupti architecto expedita numquam! Non ab quisquam, nam labore, nesciunt veniam dolorem eos odit, modi accusamus quaerat asperiores laudantium numquam! Fugit magnam sunt eligendi culpa illum.</p>
+    <h1>I am also h1</h1>
+</body>
+</html> -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Units</title>
+    <link rel="stylesheet" href="display.css">
+</head>
+<body>
+    <h1>CSS Units <button>Click Me!</button></h1>
+    <article id="ems">
+        <h2>I am h2</h2>
+        <h3>I am <h3>
+            <button id="emss">Click Me!</button>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, repellendus non exercitationem aperiam debitis consectetur, molestias dolores placeat nemo atque sed perspiciatis illo quam repellat. Esse minus quibusdam beatae architecto?
+        Earum dicta repellat enim debitis placeat dolorum? Voluptatibus, vero laudantium nulla excepturi ipsam praesentium velit unde ducimus eos deserunt facilis recusandae, itaque voluptates nesciunt dolorum exercitationem? Harum nostrum sed aliquam!</p>
+        <ul>
+            <li>Pasta
+                <ul>
+                    <li>Ravioli
+                        <ul>
+                            <li>Spinach Ricotta</li>
+                        </ul>
+                    </li>
+                    <li>Penne</li>
+                </ul>
+            </li>
+            <li>Salad</li>
+            <li>Gelato</li>
+        </ul>
+    </article>
+    <article id="rem">
+        <h2>I am h2</h2>
+        <h3>I am <h3>
+            <button id="remm">Click Me!</button>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, repellendus non exercitationem aperiam debitis consectetur, molestias dolores placeat nemo atque sed perspiciatis illo quam repellat. Esse minus quibusdam beatae architecto?
+        Earum dicta repellat enim debitis placeat dolorum? Voluptatibus, vero laudantium nulla excepturi ipsam praesentium velit unde ducimus eos deserunt facilis recusandae, itaque voluptates nesciunt dolorum exercitationem? Harum nostrum sed aliquam!</p>
+        <ul>
+            <li>Pasta
+                <ul>
+                    <li>Ravioli
+                        <ul>
+                            <li>Spinach Ricotta</li>
+                        </ul>
+                    </li>
+                    <li>Penne</li>
+                </ul>
+            </li>
+            <li>Salad</li>
+            <li>Gelato</li>
+        </ul>
+    </article>
+
+    <section class="ems">
+        <button>Click Me!</button>
+        <div></div>
+    </section>
+</body>
+</html>
